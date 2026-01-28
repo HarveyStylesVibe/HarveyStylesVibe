@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-stack developer building projects and learning along the way
+Quietly crafting projects and leveling up my full-stack skills
 
 
 # 💻 Tech Stack:
